@@ -15,4 +15,11 @@ print("Eponential: ",exponential)
 print("Division:", division)
 print("Floor Division: ",floordivision)
 print("Modulus: ",modulus)
-
+ #2 method
+print("The Value of a ", "+", "b is: ", a+b)
+print("The Value of a ", "-", "b is: ", a-b)
+print("The Value of a ", "*", "b is: ", a*b)
+print("The Value of a ", "**", "b is: ", a**b)
+print("The Value of a ", "/", "b is: ", a/b)
+print("The Value of a ", "//", "b is: ", a//b)
+print("The Value of a ", "%", "b is: ", a%b)
