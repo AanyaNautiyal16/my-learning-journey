@@ -48,4 +48,16 @@
 ✔ Built a mini project  
 ✔ Strengthened conditionals and lists  
 
+## Additional Mini Project – KBC Quiz Game
 
+- Created a quiz game similar to KBC
+- Stored questions, options, and answers using lists
+- Used loops to iterate through questions
+- Implemented quit option and prize tracking
+- Displayed final take-home amount
+
+### Concepts Applied
+- Lists of lists
+- Loop control
+- Conditional statements
+- User input handling
