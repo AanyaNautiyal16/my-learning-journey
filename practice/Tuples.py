@@ -63,6 +63,8 @@ temp[1]=21
 c=tuple(temp)
 rep=c.index(2)
 print("first occurance of 2 in tuple is: ",rep)
-rep=c.index(1, 5, 10) #1 find,5 to 9 sliced
-print("first occurance of 1 in tuple is: ",rep)
+c1=(1,2,1,1,1,2,3,0,0)
+rep1=c1.index(1, 4, 9) #1 find,5 to 9 sliced
+print("first occurance of 1 in tuple is: ",rep1)
+
 
